@@ -1,8 +1,6 @@
-# House-Prediction-App-
+# House-Prediction-App
 
-Here's a well-structured `README.md` for your **Simple Linear Regression House Prediction App** built with Streamlit:
 
----
 
 ## 🏠 House Price Prediction App
 
