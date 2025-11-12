@@ -87,6 +87,4 @@ The app displays a scatter plot of synthetic house data and highlights your pred
 **Vaishnavi**  
 Email: `nvaishnavi005@gmail.com`
 
----
 
-Let me know if you'd like to add badges, deployment instructions (e.g., Streamlit Cloud), or a license section!
